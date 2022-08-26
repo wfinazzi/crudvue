@@ -1,5 +1,5 @@
 module.exports = {  
 	devServer: {	 
-	  proxy: 'http://localhost/'
+	  proxy: 'http://appcal.casasandreluiz.org.br/'
 	}
   }
